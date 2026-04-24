@@ -1,0 +1,21 @@
+===== POLICE INVESTIGATION REPORT =====
+Date: Fri Apr 24 15:57:30 2026
+Case ID: 25
+FIR: 3
+Type: homicide
+
+Victims:
+rani (21)
+
+Suspects:
+rahul (24)
+viki (21)
+priya (28)
+
+Evidence:
+
+necklace
+pen
+
+Officer:
+sharma (32)
